@@ -52,4 +52,4 @@ I chose to use hooks for this assignment because I was really struggling with th
 
 ## Media
 
-![Image of deployed application](public\employee-directory.JPG)
+![Image of deployed application](https://github.com/Michael-Veiga/employee-directory/blob/master/public/employee-directory.JPG?raw=true)
