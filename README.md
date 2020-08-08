@@ -26,7 +26,7 @@ This application allows users to search their business directory for individual 
 
 ## Link to deployed application
 
-https://gentle-caverns-80821.herokuapp.com/
+https://michael-veiga.github.io/employee-directory/
 
 ## Licenses
 
